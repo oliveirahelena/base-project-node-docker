@@ -2,6 +2,6 @@
 
 cd /home/node/app
 
-npm install
+#npm install
 
-nodemon -L
+#nodemon -L
